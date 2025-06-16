@@ -4,6 +4,15 @@
 
 ---
 
+## 📚 Education
+
+- 🎓 **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
+  Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai  
+  CGPA: **8.3** (Ongoing)
+
+- 🎓 **Diploma in Computer Science and Engineering**  
+  Completed with **80%**
+  
 ## 💻 Technical Summary
 
 🔬 **Specialized Interests:**
