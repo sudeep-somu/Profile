@@ -14,23 +14,16 @@
 - Prompt Engineering and Generative AI
 
 🛠️ **Technical Skills:**
-- **Languages:** Python, C, C++, Java
+- **Languages:** Python, C, C++
 - **Libraries/Frameworks:** TensorFlow, Keras, PyTorch, OpenCV, scikit-learn, Streamlit
 - **Machine Learning & Deep Learning:** CNN, Transfer Learning, Random Forest, RNN
-- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, Visual Studio Code
+- **Tools:** Git,GitHub,Google Colab, Visual Studio Code
 
 ---
 
 ## 🧠 Projects & Research Highlights
-
-- 🔍 **Brain Tumor Classification Using Transfer Learning:** Applied pre-trained CNNs to classify medical brain scan images.
-- 🌱 **Plant Disease Detection using CNN:** Built a robust model for identifying crop diseases with high accuracy.
 - 🩺 **Disease Prediction System (Minor Project):** A Streamlit-based web app that predicts Adiposity, Parkinson’s, and Diabetes using Random Forest classifiers, along with a symptom-to-specialist recommender.
 - 🧠 **Segmentation and Enhancement of Medical Images:** Focused on improving clarity in MRIs/CTs for better diagnosis using deep learning.
-- 🤖 **NLP Chatbot for Smart India Hackathon:** Developed a conversation AI assistant for query resolution.
-
----
-
 ## 🌐 Online Profiles
 
 - 📧 Email: [sudeepkumarreddysomu@gmail.com](mailto:sudeepkumarreddysomu@gmail.com)
